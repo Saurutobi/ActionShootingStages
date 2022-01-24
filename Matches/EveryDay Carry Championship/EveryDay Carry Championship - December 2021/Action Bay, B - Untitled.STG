@@ -1,0 +1,750 @@
+{
+	"account": "saurutobi@gmail.com",
+	"baytype": 0,
+	"buildinstructions": "Targets must be at least four meters apart and as close to the berm as possible.",
+	"coursetype": "NewEnumerator0",
+	"customcamerafov": 90,
+	"customcameratransform":
+	{
+		"rotation":
+		{
+			"w": 0.77937996387481689,
+			"x": 0.17601513862609863,
+			"y": 0.25106728076934814,
+			"z": -0.54639804363250732
+		},
+		"scale3d":
+		{
+			"x": 1,
+			"y": 1,
+			"z": 1
+		},
+		"translation":
+		{
+			"x": -305.63232421875,
+			"y": 1151.942138671875,
+			"z": 568.817626953125
+		}
+	},
+	"downloads": 0,
+	"downvotes": 0,
+	"downvoteslist": [],
+	"numnoshoots": 0,
+	"numpaper": 5,
+	"numperpaper": 2,
+	"numpoints": 55,
+	"numrounds": 11,
+	"numsteel": 1,
+	"papertype": "NewEnumerator3",
+	"procedure": "Engage all targets as they become visible within the shooting area.",
+	"proplist": [
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 0,
+				"b": 0,
+				"g": 0,
+				"r": 0
+			},
+			"depth": 0,
+			"groupid": [],
+			"height": 1,
+			"islocked": false,
+			"propname": "p2g-target-full",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.92387950420379639,
+					"x": 0,
+					"y": -0,
+					"z": 0.38268351554870605
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 76.256546020507812,
+					"y": 440.17532348632812,
+					"z": 0.1000823974609375
+				}
+			},
+			"uniqueid": 1,
+			"waypointdelayduration": 2,
+			"waypointnumber": 0,
+			"waypointstance": "walk",
+			"width": 1,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 0,
+				"b": 0,
+				"g": 0,
+				"r": 0
+			},
+			"depth": 0,
+			"groupid": [],
+			"height": 1,
+			"islocked": false,
+			"propname": "p2g-target-full",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.97629600763320923,
+					"x": 0,
+					"y": -0,
+					"z": 0.21643948554992676
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 18.893386840820312,
+					"y": 73.484451293945312,
+					"z": 0.1000823974609375
+				}
+			},
+			"uniqueid": 8,
+			"waypointdelayduration": 2,
+			"waypointnumber": 0,
+			"waypointstance": "walk",
+			"width": 1,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 0,
+				"b": 0,
+				"g": 0,
+				"r": 0
+			},
+			"depth": 0,
+			"groupid": [],
+			"height": 1,
+			"islocked": false,
+			"propname": "p2g-target-full",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.79335415363311768,
+					"x": 0,
+					"y": -0,
+					"z": 0.60876035690307617
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 63.842330932617188,
+					"y": 302.28945922851562,
+					"z": 0.10009765625
+				}
+			},
+			"uniqueid": 9,
+			"waypointdelayduration": 2,
+			"waypointnumber": 0,
+			"waypointstance": "walk",
+			"width": 1,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 0,
+				"b": 0,
+				"g": 0,
+				"r": 0
+			},
+			"depth": 0,
+			"groupid": [],
+			"height": 1,
+			"islocked": false,
+			"propname": "p2g-target-full",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 1,
+					"x": 0,
+					"y": -0,
+					"z": 0
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": -158.78018188476562,
+					"y": -338.93359375,
+					"z": 0.10009765625
+				}
+			},
+			"uniqueid": 10,
+			"waypointdelayduration": 2,
+			"waypointnumber": 0,
+			"waypointstance": "walk",
+			"width": 1,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 0,
+				"b": 0,
+				"g": 0,
+				"r": 0
+			},
+			"depth": 0,
+			"groupid": [],
+			"height": 1,
+			"islocked": false,
+			"propname": "p2g-target-full",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 1,
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": -45.942543029785156,
+					"y": -377.03359985351562,
+					"z": 0.1000823974609375
+				}
+			},
+			"uniqueid": 11,
+			"waypointdelayduration": 2,
+			"waypointnumber": 0,
+			"waypointstance": "walk",
+			"width": 1,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"depth": 1,
+			"groupid": [],
+			"height": 1,
+			"islocked": false,
+			"propname": "wall-metric-1x2",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 1,
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": -147.6363525390625,
+					"y": 65.51617431640625,
+					"z": 0.10009765625
+				}
+			},
+			"uniqueid": 12,
+			"waypointdelayduration": 2,
+			"waypointnumber": 0,
+			"waypointstance": "walk",
+			"width": 1,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"depth": 0.89999997615814209,
+			"groupid": [],
+			"height": 0.89999997615814209,
+			"islocked": false,
+			"propname": "wall-med-color",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 1,
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": -64.393600463867188,
+					"y": 412.37673950195312,
+					"z": 0.1001129150390625
+				}
+			},
+			"uniqueid": 3,
+			"waypointdelayduration": 2,
+			"waypointnumber": 0,
+			"waypointstance": "walk",
+			"width": 0.85000002384185791,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"depth": 0.89999997615814209,
+			"groupid": [],
+			"height": 0.89999997615814209,
+			"islocked": false,
+			"propname": "wall-med-color",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.7071080207824707,
+					"x": 0,
+					"y": -0,
+					"z": 0.70710551738739014
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": -204.88865661621094,
+					"y": 192.35946655273438,
+					"z": 0.1000823974609375
+				}
+			},
+			"uniqueid": 4,
+			"waypointdelayduration": 2,
+			"waypointnumber": 0,
+			"waypointstance": "walk",
+			"width": 0.85000002384185791,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 0,
+				"b": 0,
+				"g": 1,
+				"r": 1
+			},
+			"depth": 1,
+			"groupid": [],
+			"height": 1,
+			"islocked": false,
+			"propname": "faultline-2ft",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 1,
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": -59.9088134765625,
+					"y": 699.4486083984375,
+					"z": 0.10009765625
+				}
+			},
+			"uniqueid": 2,
+			"waypointdelayduration": 2,
+			"waypointnumber": 0,
+			"waypointstance": "walk",
+			"width": 1,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 0,
+				"b": 0,
+				"g": 1,
+				"r": 1
+			},
+			"depth": 1,
+			"groupid": [],
+			"height": 1,
+			"islocked": false,
+			"propname": "faultline-2ft",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 1,
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": -231.32096862792969,
+					"y": 419.26068115234375,
+					"z": 0.1000823974609375
+				}
+			},
+			"uniqueid": 5,
+			"waypointdelayduration": 2,
+			"waypointnumber": 0,
+			"waypointstance": "walk",
+			"width": 1,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 0,
+				"b": 0,
+				"g": 1,
+				"r": 1
+			},
+			"depth": 1,
+			"groupid": [],
+			"height": 1,
+			"islocked": false,
+			"propname": "faultline-2ft",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.70711278915405273,
+					"x": -0,
+					"y": 0,
+					"z": -0.70710074901580811
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": -196.037841796875,
+					"y": 455.81692504882812,
+					"z": 0.10009765625
+				}
+			},
+			"uniqueid": 6,
+			"waypointdelayduration": 2,
+			"waypointnumber": 0,
+			"waypointstance": "walk",
+			"width": 1,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 0,
+				"b": 0,
+				"g": 1,
+				"r": 1
+			},
+			"depth": 1,
+			"groupid": [],
+			"height": 1,
+			"islocked": false,
+			"propname": "faultline-2ft",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.70711278915405273,
+					"x": -0,
+					"y": 0,
+					"z": -0.70710074901580811
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": -98.182785034179688,
+					"y": 103.45167541503906,
+					"z": 0.1000823974609375
+				}
+			},
+			"uniqueid": 13,
+			"waypointdelayduration": 2,
+			"waypointnumber": 0,
+			"waypointstance": "walk",
+			"width": 1,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"depth": 0,
+			"groupid": [],
+			"height": 1,
+			"islocked": false,
+			"propname": "uspsa-popper",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 1,
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": -268.06451416015625,
+					"y": -267.038330078125,
+					"z": 0.10009765625
+				}
+			},
+			"uniqueid": 7,
+			"waypointdelayduration": 2,
+			"waypointnumber": 0,
+			"waypointstance": "walk",
+			"width": 1,
+			"zoffset": 0
+		}
+	],
+	"scannedbayname": "",
+	"scoringtype": "NewEnumerator0",
+	"skyrotation": 30.771312713623047,
+	"skytype": 7,
+	"stageauthor": "<your name>",
+	"stagebrief": "Welcome to stage <stage-name>. My name is <designer-name> and I am the CRO for this stage.\r\n\r\n<stage-name> is a <num-rounds> round, <num-points> point <scoring-type> <stage-size> course. There are <num-paper> <metric/classic> targets and <num-steel> steel. The start signal is audible.\r\n\r\nThe start position is standing anywhere in the shooting area, facing down range with wrists below belt. Handgun is loaded and holstered.\r\nPCC start position is standing anywhere in the shooting area, facing down range, stock on belt, muzzle pointed down range, loaded carbine held in both hands with safety on.\r\n\r\nOn the audible start signal, from within the shooting area, engage all targets as they become visible. Best two hits on paper and steel must fall to score.",
+	"stagekey": "",
+	"stagelastupdate": "2021.12.03-20.40.06",
+	"stagename": "<some cool name>",
+	"stageshape":
+	{
+		"arrayvector2d": [
+			{
+				"x": 0,
+				"y": 0
+			},
+			{
+				"x": 50,
+				"y": 0
+			},
+			{
+				"x": 100,
+				"y": 0
+			},
+			{
+				"x": 150,
+				"y": 0
+			},
+			{
+				"x": 200,
+				"y": 0
+			},
+			{
+				"x": 250,
+				"y": 0
+			},
+			{
+				"x": 300,
+				"y": 0
+			},
+			{
+				"x": 300,
+				"y": 50
+			},
+			{
+				"x": 300,
+				"y": 100
+			},
+			{
+				"x": 300,
+				"y": 150
+			},
+			{
+				"x": 300,
+				"y": 200
+			},
+			{
+				"x": 300,
+				"y": 250
+			},
+			{
+				"x": 300,
+				"y": 300
+			},
+			{
+				"x": 250,
+				"y": 300
+			},
+			{
+				"x": 200,
+				"y": 300
+			},
+			{
+				"x": 150,
+				"y": 300
+			},
+			{
+				"x": 100,
+				"y": 300
+			},
+			{
+				"x": 50,
+				"y": 300
+			},
+			{
+				"x": 0,
+				"y": 300
+			},
+			{
+				"x": 0,
+				"y": 250
+			},
+			{
+				"x": 0,
+				"y": 200
+			},
+			{
+				"x": 0,
+				"y": 150
+			},
+			{
+				"x": 0,
+				"y": 100
+			},
+			{
+				"x": 0,
+				"y": 50
+			},
+			{
+				"x": 0,
+				"y": 0
+			}
+		],
+		"groundtexture": "Grass",
+		"height": 0,
+		"presetname": "Square",
+		"showhidefrontwalls": false,
+		"walltexture": "NewEnumerator9",
+		"width": 0
+	},
+	"startposition": "The start position is standing anywhere in the shooting area, facing down range with wrists below belt. Handgun is loaded and holstered. PCC start position is stock on belt, muzzle pointing downrange",
+	"upvotes": 0,
+	"upvoteslist": []
+}
