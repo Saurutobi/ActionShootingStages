@@ -1,0 +1,1031 @@
+{
+	"baytype": 0,
+	"buildinstructions": "EXAMPLE: Targets must be at least four meters apart and as close to the berm as possible.",
+	"coursetype": "NewEnumerator1",
+	"customcamerafov": 90,
+	"customcameratransform":
+	{
+		"rotation":
+		{
+			"w": 0.62562710046768188,
+			"x": 0.20278738439083099,
+			"y": 0.17304447293281555,
+			"z": -0.73316001892089844
+		},
+		"scale3d":
+		{
+			"x": 1,
+			"y": 1,
+			"z": 1
+		},
+		"translation":
+		{
+			"x": 772.2100830078125,
+			"y": 1204.854248046875,
+			"z": 562.6964111328125
+		}
+	},
+	"downloads": 0,
+	"downvotes": 0,
+	"numnoshoots": 3,
+	"numpaper": 5,
+	"numperpaper": 2,
+	"numpoints": 65,
+	"numrounds": 13,
+	"numsteel": 3,
+	"papertype": "NewEnumerator0",
+	"procedure": "EXAMPLE: Engage all targets as they become visible within the shooting area.",
+	"proplist": [
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 0,
+				"b": 0,
+				"g": 0,
+				"r": 0
+			},
+			"groupid": [ 4 ],
+			"propname": "uspsa-noshoot",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 1,
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": -65.735671997070312,
+					"y": -1256.52392578125,
+					"z": 71.831611633300781
+				}
+			},
+			"uniqueid": 5,
+			"zoffset": -35
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 0,
+				"b": 0,
+				"g": 0,
+				"r": 0
+			},
+			"groupid": [],
+			"propname": "uspsa-noshoot",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.93969255685806274,
+					"x": 0,
+					"y": 0,
+					"z": 0.34202027320861816
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 784.272705078125,
+					"y": 229.4674072265625,
+					"z": 71.831611633300781
+				}
+			},
+			"uniqueid": 15,
+			"zoffset": -35
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 0,
+				"b": 0,
+				"g": 0,
+				"r": 0
+			},
+			"groupid": [],
+			"propname": "barrel-blue-stack",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 1,
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 521.7105712890625,
+					"y": -769.63665771484375,
+					"z": 0.1001129150390625
+				}
+			},
+			"uniqueid": 28,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 0,
+				"b": 0,
+				"g": 0,
+				"r": 0
+			},
+			"groupid": [],
+			"propname": "wall-metric-3x2",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.84339135885238647,
+					"x": 0,
+					"y": -0,
+					"z": 0.5372997522354126
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 69.971572875976562,
+					"y": 19.626953125,
+					"z": 0.10009765625
+				}
+			},
+			"uniqueid": 6,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 0,
+				"b": 0,
+				"g": 0,
+				"r": 0
+			},
+			"groupid": [],
+			"propname": "wall-metric-3x2",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.84339118003845215,
+					"x": 0,
+					"y": -0,
+					"z": 0.5372999906539917
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 201.07733154296875,
+					"y": 297.86935424804688,
+					"z": 0.10009765625
+				}
+			},
+			"uniqueid": 7,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 0,
+				"b": 0,
+				"g": 0,
+				"r": 0
+			},
+			"groupid": [],
+			"propname": "wall-metric-3x2",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.70710670948028564,
+					"x": 0,
+					"y": -0,
+					"z": 0.7071068286895752
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 326.923095703125,
+					"y": 277.8134765625,
+					"z": 0.1001129150390625
+				}
+			},
+			"uniqueid": 8,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 0,
+				"b": 0,
+				"g": 0,
+				"r": 0
+			},
+			"groupid": [],
+			"propname": "wall-metric-3x2",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.4226183295249939,
+					"x": 0,
+					"y": -0,
+					"z": 0.90630775690078735
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 668.59967041015625,
+					"y": 320.0482177734375,
+					"z": 0.1000823974609375
+				}
+			},
+			"uniqueid": 16,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 0,
+				"b": 0,
+				"g": 0,
+				"r": 0
+			},
+			"groupid": [],
+			"propname": "wall-metric-3x2-port-single",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 1,
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 414.99990844726562,
+					"y": 437.12106323242188,
+					"z": 0.1000823974609375
+				}
+			},
+			"uniqueid": 9,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 0,
+				"g": 1,
+				"r": 1
+			},
+			"groupid": [],
+			"propname": "faultline-6ft",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 1,
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 124.15631866455078,
+					"y": 331.91192626953125,
+					"z": 0.10009765625
+				}
+			},
+			"uniqueid": 10,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 0,
+				"g": 1,
+				"r": 1
+			},
+			"groupid": [],
+			"propname": "faultline-6ft",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.7071070671081543,
+					"x": 0,
+					"y": -0,
+					"z": 0.70710647106170654
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": -40.086151123046875,
+					"y": 428.79327392578125,
+					"z": 0.10009765625
+				}
+			},
+			"uniqueid": 11,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 0,
+				"g": 1,
+				"r": 1
+			},
+			"groupid": [],
+			"propname": "faultline-6ft",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 1,
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 59.104850769042969,
+					"y": 333.613037109375,
+					"z": 2.7000885009765625
+				}
+			},
+			"uniqueid": 12,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 0,
+				"g": 1,
+				"r": 1
+			},
+			"groupid": [],
+			"propname": "faultline-6ft",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 1,
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 53.9857177734375,
+					"y": 573.62835693359375,
+					"z": 2.7001495361328125
+				}
+			},
+			"uniqueid": 18,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 0,
+				"g": 1,
+				"r": 1
+			},
+			"groupid": [],
+			"propname": "faultline-6ft",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.7071070671081543,
+					"x": 0,
+					"y": -0,
+					"z": 0.70710647106170654
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": -40.497161865234375,
+					"y": 474.45571899414062,
+					"z": 2.7000732421875
+				}
+			},
+			"uniqueid": 19,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 0,
+				"g": 1,
+				"r": 1
+			},
+			"groupid": [],
+			"propname": "faultline-5m",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 1,
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 270.64517211914062,
+					"y": 573.16766357421875,
+					"z": 0.10009765625
+				}
+			},
+			"uniqueid": 17,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 0,
+				"g": 1,
+				"r": 1
+			},
+			"groupid": [],
+			"propname": "faultline-4ft",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.7071070671081543,
+					"x": 0,
+					"y": -0,
+					"z": 0.70710647106170654
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 511.49740600585938,
+					"y": 507.83969116210938,
+					"z": 0.10009765625
+				}
+			},
+			"uniqueid": 13,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 0,
+				"g": 0,
+				"r": 0
+			},
+			"groupid": [],
+			"propname": "plate-rect-18x24",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 1,
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 360.68780517578125,
+					"y": -777.35626220703125,
+					"z": 0.10009765625
+				}
+			},
+			"uniqueid": 27,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 0,
+				"b": 0,
+				"g": 0,
+				"r": 0
+			},
+			"groupid": [],
+			"propname": "uspsa-swinger",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 1,
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 565.5430908203125,
+					"y": -877.78857421875,
+					"z": 0.10009765625
+				}
+			},
+			"uniqueid": 23,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 0,
+				"b": 0,
+				"g": 0,
+				"r": 0
+			},
+			"groupid": [],
+			"propname": "uspsa-bobber",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 1,
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 361.55291748046875,
+					"y": -852.12554931640625,
+					"z": 0.1000823974609375
+				}
+			},
+			"uniqueid": 20,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"groupid": [],
+			"propname": "uspsa-mini-popper",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 1,
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 430.37319946289062,
+					"y": -947.4130859375,
+					"z": 0.10009765625
+				}
+			},
+			"uniqueid": 21,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"groupid": [],
+			"propname": "uspsa-mini-popper",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 1,
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 636.360595703125,
+					"y": -950.14959716796875,
+					"z": 0.1000823974609375
+				}
+			},
+			"uniqueid": 22,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 0,
+				"b": 0,
+				"g": 0,
+				"r": 0
+			},
+			"groupid": [ 5 ],
+			"propname": "uspsa-full-target",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 1,
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": -65.700424194335938,
+					"y": -1257.3197021484375,
+					"z": 0.1000823974609375
+				}
+			},
+			"uniqueid": 4,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 0,
+				"b": 0,
+				"g": 0,
+				"r": 0
+			},
+			"groupid": [],
+			"propname": "uspsa-full-target",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.93969255685806274,
+					"x": 0,
+					"y": -0,
+					"z": 0.34202027320861816
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 784.81121826171875,
+					"y": 228.88046264648438,
+					"z": 0.1000823974609375
+				}
+			},
+			"uniqueid": 14,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 0,
+				"b": 0,
+				"g": 0,
+				"r": 0
+			},
+			"groupid": [],
+			"propname": "uspsa-full-target-short",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 1,
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": -235.02157592773438,
+					"y": -734.357421875,
+					"z": 0.10009765625
+				}
+			},
+			"uniqueid": 1,
+			"zoffset": 0
+		}
+	],
+	"scoringtype": "NewEnumerator0",
+	"skyrotation": 0,
+	"skytype": 1,
+	"stageauthor": "<your name>",
+	"stagebrief": "EXAMPLE: Welcome to stage <stage-name>. My name is <designer-name> and I am the CRO for this stage.\r\n\r\n<stage-name> is a <num-rounds> round, <num-points> point <scoring-type> <stage-size> course. There are <num-paper> <metric/classic> targets and <num-steel> steel. The start signal is audible.\r\n\r\nThe start position is standing anywhere in the shooting area, facing down range with wrists below belt. Handgun is loaded and holstered.\r\nPCC start position is standing anywhere in the shooting area, facing down range, stock on belt, muzzle pointed down range, loaded carbine held in both hands with safety on.\r\n\r\nOn the audible start signal, from within the shooting area, engage all targets as they become visible. Best two hits on paper and steel must fall to score.",
+	"stagelastupdate": "2021.08.28-18.28.22",
+	"stagename": "<some cool name>",
+	"stageshape":
+	{
+		"arrayvector2d": [
+			{
+				"x": 104,
+				"y": 0
+			},
+			{
+				"x": 133,
+				"y": 0
+			},
+			{
+				"x": 154,
+				"y": 0
+			},
+			{
+				"x": 150,
+				"y": 0
+			},
+			{
+				"x": 175,
+				"y": 0
+			},
+			{
+				"x": 200,
+				"y": 0
+			},
+			{
+				"x": 229,
+				"y": 0
+			},
+			{
+				"x": 256,
+				"y": 129
+			},
+			{
+				"x": 278,
+				"y": 241
+			},
+			{
+				"x": 300,
+				"y": 289
+			},
+			{
+				"x": 300,
+				"y": 297
+			},
+			{
+				"x": 290,
+				"y": 300
+			},
+			{
+				"x": 254,
+				"y": 300
+			},
+			{
+				"x": 200,
+				"y": 300
+			},
+			{
+				"x": 175,
+				"y": 300
+			},
+			{
+				"x": 150,
+				"y": 300
+			},
+			{
+				"x": 125,
+				"y": 300
+			},
+			{
+				"x": 100,
+				"y": 300
+			},
+			{
+				"x": 75,
+				"y": 300
+			},
+			{
+				"x": 88,
+				"y": 290
+			},
+			{
+				"x": 92,
+				"y": 300
+			},
+			{
+				"x": 93,
+				"y": 292
+			},
+			{
+				"x": 97,
+				"y": 232
+			},
+			{
+				"x": 100,
+				"y": 129
+			},
+			{
+				"x": 104,
+				"y": 0
+			}
+		],
+		"groundtexture": "Grass",
+		"presetname": "Narrow",
+		"walltexture": "NewEnumerator9"
+	},
+	"startposition": "EXAMPLE: The start position is standing anywhere in the shooting area, facing down range with wrists below belt. Handgun is loaded and holstered. PCC start position is stock on belt, muzzle pointing downrange",
+	"upvotes": 0
+}

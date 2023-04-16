@@ -1,0 +1,1378 @@
+{
+	"account": "ericbeerbaum@gmail.com",
+	"baytype": 0,
+	"buildinstructions": "",
+	"cameraselection": 0,
+	"celshadingselection": 0,
+	"concealment": 1,
+	"coursetype": "NewEnumerator1",
+	"customcamerafov": 90,
+	"customcameratransform":
+	{
+		"rotation":
+		{
+			"w": 1,
+			"x": 0,
+			"y": 0,
+			"z": 0
+		},
+		"scale3d":
+		{
+			"x": 1,
+			"y": 1,
+			"z": 1
+		},
+		"translation":
+		{
+			"x": 0,
+			"y": 0,
+			"z": 0
+		}
+	},
+	"customimages":
+	{
+		"idpalogoone": "",
+		"idpalogotwo": "",
+		"ipsclogo": "",
+		"nroilogo": "",
+		"uspsalogomain": "",
+		"uspsalogosecond": ""
+	},
+	"distances": "x yards",
+	"downloads": 0,
+	"downvotes": 0,
+	"downvoteslist": [],
+	"muzzlesafe": "180-degree plane",
+	"numnoshoots": 0,
+	"numpaper": 8,
+	"numperpaper": 2,
+	"numpoints": 100,
+	"numrounds": 20,
+	"numsteel": 4,
+	"papertype": "NewEnumerator0",
+	"procedure": "Engage all targets as they become visible within the shooting area.",
+	"proplist": [
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"customtext": "T1",
+			"depth": 1,
+			"groupid": [],
+			"height": 1,
+			"islocked": false,
+			"propname": "uspsa-twothirds",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.96592581272125244,
+					"x": 0,
+					"y": -0,
+					"z": 0.25881919264793396
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 802.2265625,
+					"y": 482.23916625976562,
+					"z": 0.9693756103515625
+				}
+			},
+			"uniqueid": 37,
+			"waypointdelayduration": 2,
+			"waypointnumber": 0,
+			"waypointstance": "walk",
+			"width": 1,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"customtext": "T1",
+			"depth": 1,
+			"groupid": [],
+			"height": 1,
+			"islocked": false,
+			"propname": "uspsa-twothirds",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.93969261646270752,
+					"x": -0,
+					"y": 0,
+					"z": -0.34202012419700623
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": -920.14471435546875,
+					"y": 145.80320739746094,
+					"z": 12.928146362304688
+				}
+			},
+			"uniqueid": 38,
+			"waypointdelayduration": 2,
+			"waypointnumber": 0,
+			"waypointstance": "walk",
+			"width": 1,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"customtext": "T1",
+			"depth": 0,
+			"groupid": [],
+			"height": 1,
+			"islocked": false,
+			"propname": "uspsa-tux",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.96592581272125244,
+					"x": -0,
+					"y": 0,
+					"z": -0.25881904363632202
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": -807.83538818359375,
+					"y": -73.129638671875,
+					"z": 0.9692840576171875
+				}
+			},
+			"uniqueid": 34,
+			"waypointdelayduration": 2,
+			"waypointnumber": 0,
+			"waypointstance": "walk",
+			"width": 1,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"customtext": "T1",
+			"depth": 0,
+			"groupid": [],
+			"height": 1,
+			"islocked": false,
+			"propname": "uspsa-slant-right",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.97629630565643311,
+					"x": -0,
+					"y": 0,
+					"z": -0.21643830835819244
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 277.46002197265625,
+					"y": -504.82086181640625,
+					"z": 0.9692230224609375
+				}
+			},
+			"uniqueid": 10,
+			"waypointdelayduration": 2,
+			"waypointnumber": 0,
+			"waypointstance": "walk",
+			"width": 1,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"customtext": "T1",
+			"depth": 0,
+			"groupid": [],
+			"height": 1,
+			"islocked": false,
+			"propname": "uspsa-slant-left",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.90630757808685303,
+					"x": 0,
+					"y": -0,
+					"z": 0.42261871695518494
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 862.41046142578125,
+					"y": 618.37939453125,
+					"z": 0.9693450927734375
+				}
+			},
+			"uniqueid": 25,
+			"waypointdelayduration": 2,
+			"waypointnumber": 0,
+			"waypointstance": "walk",
+			"width": 1,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"customtext": "T1",
+			"depth": 0,
+			"groupid": [],
+			"height": 1,
+			"islocked": false,
+			"propname": "uspsa-full-target",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.92387938499450684,
+					"x": 0,
+					"y": -0,
+					"z": 0.38268384337425232
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 669.69598388671875,
+					"y": -352.8863525390625,
+					"z": 0.9692230224609375
+				}
+			},
+			"uniqueid": 35,
+			"waypointdelayduration": 2,
+			"waypointnumber": 0,
+			"waypointstance": "walk",
+			"width": 1,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"customtext": "T1",
+			"depth": 0,
+			"groupid": [],
+			"height": 1,
+			"islocked": false,
+			"propname": "uspsa-full-target",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.86602556705474854,
+					"x": -0,
+					"y": 0,
+					"z": -0.4999997615814209
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": -757.3677978515625,
+					"y": -205.06315612792969,
+					"z": 0.96923828125
+				}
+			},
+			"uniqueid": 13,
+			"waypointdelayduration": 2,
+			"waypointnumber": 0,
+			"waypointstance": "walk",
+			"width": 1,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"customtext": "T1",
+			"depth": 0,
+			"groupid": [],
+			"height": 1,
+			"islocked": false,
+			"propname": "uspsa-full-target",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.96592599153518677,
+					"x": 0,
+					"y": -0,
+					"z": 0.25881847739219666
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 79.111000061035156,
+					"y": -654.66119384765625,
+					"z": 20.381729125976562
+				}
+			},
+			"uniqueid": 4,
+			"waypointdelayduration": 2,
+			"waypointnumber": 0,
+			"waypointstance": "walk",
+			"width": 1,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"customtext": "walk",
+			"depth": 0,
+			"groupid": [],
+			"height": 0.89999997615814209,
+			"islocked": false,
+			"propname": "wall-short-color",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.76604461669921875,
+					"x": 0,
+					"y": -0,
+					"z": 0.6427873969078064
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 247.24235534667969,
+					"y": -415.4459228515625,
+					"z": 0.96923828125
+				}
+			},
+			"uniqueid": 33,
+			"waypointdelayduration": 2,
+			"waypointnumber": 0,
+			"waypointstance": "walk",
+			"width": 0.85000002384185791,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"customtext": "walk",
+			"depth": 0,
+			"groupid": [],
+			"height": 0.89999997615814209,
+			"islocked": false,
+			"propname": "wall-med-color",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.73727774620056152,
+					"x": -0,
+					"y": 0,
+					"z": -0.67558979988098145
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 641.50067138671875,
+					"y": 550.152099609375,
+					"z": 0.9693756103515625
+				}
+			},
+			"uniqueid": 22,
+			"waypointdelayduration": 2,
+			"waypointnumber": 0,
+			"waypointstance": "walk",
+			"width": 0.85000002384185791,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"customtext": "walk",
+			"depth": 0,
+			"groupid": [],
+			"height": 0.89999997615814209,
+			"islocked": false,
+			"propname": "wall-long-color",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.86602568626403809,
+					"x": -0,
+					"y": 0,
+					"z": -0.49999955296516418
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 42.793342590332031,
+					"y": -379.9581298828125,
+					"z": 0.96923828125
+				}
+			},
+			"uniqueid": 5,
+			"waypointdelayduration": 2,
+			"waypointnumber": 0,
+			"waypointstance": "walk",
+			"width": 0.85000002384185791,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"customtext": "walk",
+			"depth": 0,
+			"groupid": [],
+			"height": 0.89999997615814209,
+			"islocked": false,
+			"propname": "wall-long-color",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.97629618644714355,
+					"x": 0,
+					"y": -0,
+					"z": 0.21643875539302826
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": -543.068359375,
+					"y": -61.45904541015625,
+					"z": 0.9692840576171875
+				}
+			},
+			"uniqueid": 6,
+			"waypointdelayduration": 2,
+			"waypointnumber": 0,
+			"waypointstance": "walk",
+			"width": 0.85000002384185791,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 0,
+				"g": 0,
+				"r": 1
+			},
+			"customtext": "walk",
+			"depth": 0,
+			"groupid": [],
+			"height": 1,
+			"islocked": false,
+			"propname": "two-Xs",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 1,
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": -124.65198516845703,
+					"y": 184.53024291992188,
+					"z": 0.96929931640625
+				}
+			},
+			"uniqueid": 36,
+			"waypointdelayduration": 2,
+			"waypointnumber": 0,
+			"waypointstance": "walk",
+			"width": 1,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 0,
+				"g": 1,
+				"r": 1
+			},
+			"customtext": "walk",
+			"depth": 0,
+			"groupid": [],
+			"height": 1,
+			"islocked": false,
+			"propname": "faultline-8ft",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.99144476652145386,
+					"x": 0,
+					"y": -0,
+					"z": 0.13052710890769958
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 477.31393432617188,
+					"y": 803.4510498046875,
+					"z": 0.9694061279296875
+				}
+			},
+			"uniqueid": 21,
+			"waypointdelayduration": 2,
+			"waypointnumber": 0,
+			"waypointstance": "walk",
+			"width": 1,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 0,
+				"g": 1,
+				"r": 1
+			},
+			"customtext": "walk",
+			"depth": 0,
+			"groupid": [],
+			"height": 1,
+			"islocked": false,
+			"propname": "faultline-8ft",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.99144476652145386,
+					"x": 0,
+					"y": -0,
+					"z": 0.13052710890769958
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 222.25250244140625,
+					"y": 734.886474609375,
+					"z": 0.969390869140625
+				}
+			},
+			"uniqueid": 20,
+			"waypointdelayduration": 2,
+			"waypointnumber": 0,
+			"waypointstance": "walk",
+			"width": 1,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 0,
+				"g": 1,
+				"r": 1
+			},
+			"customtext": "walk",
+			"depth": 0,
+			"groupid": [],
+			"height": 1,
+			"islocked": false,
+			"propname": "faultline-8ft",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.92387950420379639,
+					"x": -0,
+					"y": 0,
+					"z": -0.38268342614173889
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 183.75833129882812,
+					"y": 475.890380859375,
+					"z": 0.9693603515625
+				}
+			},
+			"uniqueid": 18,
+			"waypointdelayduration": 2,
+			"waypointnumber": 0,
+			"waypointstance": "walk",
+			"width": 1,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 0,
+				"g": 1,
+				"r": 1
+			},
+			"customtext": "walk",
+			"depth": 0,
+			"groupid": [],
+			"height": 1,
+			"islocked": false,
+			"propname": "faultline-8ft",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.90630757808685303,
+					"x": 0,
+					"y": -0,
+					"z": 0.42261871695518494
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 716.64892578125,
+					"y": 780.74078369140625,
+					"z": 0.9694061279296875
+				}
+			},
+			"uniqueid": 24,
+			"waypointdelayduration": 2,
+			"waypointnumber": 0,
+			"waypointstance": "walk",
+			"width": 1,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 0,
+				"g": 1,
+				"r": 1
+			},
+			"customtext": "walk",
+			"depth": 0,
+			"groupid": [],
+			"height": 1,
+			"islocked": false,
+			"propname": "faultline-8ft",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.93969279527664185,
+					"x": 0,
+					"y": -0,
+					"z": 0.3420197069644928
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 553.74560546875,
+					"y": 335.95654296875,
+					"z": 0.9693145751953125
+				}
+			},
+			"uniqueid": 27,
+			"waypointdelayduration": 2,
+			"waypointnumber": 0,
+			"waypointstance": "walk",
+			"width": 1,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 0,
+				"g": 1,
+				"r": 1
+			},
+			"customtext": "walk",
+			"depth": 0,
+			"groupid": [],
+			"height": 1,
+			"islocked": false,
+			"propname": "faultline-6ft",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.99144476652145386,
+					"x": 0,
+					"y": -0,
+					"z": 0.13052710890769958
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 700.0040283203125,
+					"y": 863.28424072265625,
+					"z": 0.9694061279296875
+				}
+			},
+			"uniqueid": 23,
+			"waypointdelayduration": 2,
+			"waypointnumber": 0,
+			"waypointstance": "walk",
+			"width": 1,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 0,
+				"g": 1,
+				"r": 1
+			},
+			"customtext": "walk",
+			"depth": 0,
+			"groupid": [],
+			"height": 1,
+			"islocked": false,
+			"propname": "faultline-4ft",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.64278805255889893,
+					"x": -0,
+					"y": 0,
+					"z": -0.76604408025741577
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": -487.994384765625,
+					"y": 532.5966796875,
+					"z": 0.9694061279296875
+				}
+			},
+			"uniqueid": 8,
+			"waypointdelayduration": 2,
+			"waypointnumber": 0,
+			"waypointstance": "walk",
+			"width": 1,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 0,
+				"g": 1,
+				"r": 1
+			},
+			"customtext": "walk",
+			"depth": 0,
+			"groupid": [],
+			"height": 1,
+			"islocked": false,
+			"propname": "faultline-4ft",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.70710712671279907,
+					"x": -0,
+					"y": 0,
+					"z": -0.70710641145706177
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 88.500213623046875,
+					"y": 636.185791015625,
+					"z": 0.969390869140625
+				}
+			},
+			"uniqueid": 15,
+			"waypointdelayduration": 2,
+			"waypointnumber": 0,
+			"waypointstance": "walk",
+			"width": 1,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 0,
+				"g": 1,
+				"r": 1
+			},
+			"customtext": "walk",
+			"depth": 0,
+			"groupid": [],
+			"height": 1,
+			"islocked": false,
+			"propname": "faultline-4ft",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.92387950420379639,
+					"x": -0,
+					"y": 0,
+					"z": -0.38268342614173889
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 323.50326538085938,
+					"y": 336.27197265625,
+					"z": 0.9693603515625
+				}
+			},
+			"uniqueid": 19,
+			"waypointdelayduration": 2,
+			"waypointnumber": 0,
+			"waypointstance": "walk",
+			"width": 1,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"customtext": "P1",
+			"depth": 0,
+			"groupid": [],
+			"height": 1,
+			"islocked": false,
+			"propname": "uspsa-popper",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.92387950420379639,
+					"x": -0,
+					"y": 0,
+					"z": -0.38268342614173889
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": -538.21820068359375,
+					"y": -299.16586303710938,
+					"z": 0.9692535400390625
+				}
+			},
+			"uniqueid": 29,
+			"waypointdelayduration": 2,
+			"waypointnumber": 0,
+			"waypointstance": "walk",
+			"width": 1,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"customtext": "P1",
+			"depth": 0,
+			"groupid": [],
+			"height": 1,
+			"islocked": false,
+			"propname": "uspsa-popper",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.9537169337272644,
+					"x": -0,
+					"y": 0,
+					"z": -0.30070579051971436
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": -465.1175537109375,
+					"y": -356.605224609375,
+					"z": 0.96923828125
+				}
+			},
+			"uniqueid": 30,
+			"waypointdelayduration": 2,
+			"waypointnumber": 0,
+			"waypointstance": "walk",
+			"width": 1,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"customtext": "P1",
+			"depth": 0,
+			"groupid": [],
+			"height": 1,
+			"islocked": false,
+			"propname": "uspsa-popper",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.97629719972610474,
+					"x": -0,
+					"y": 0,
+					"z": -0.21643415093421936
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": -297.1917724609375,
+					"y": -474.61956787109375,
+					"z": 0.969207763671875
+				}
+			},
+			"uniqueid": 32,
+			"waypointdelayduration": 2,
+			"waypointnumber": 0,
+			"waypointstance": "walk",
+			"width": 1,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"customtext": "P1",
+			"depth": 0,
+			"groupid": [],
+			"height": 1,
+			"islocked": false,
+			"propname": "uspsa-popper",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.96592581272125244,
+					"x": -0,
+					"y": 0,
+					"z": -0.25881904363632202
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": -385.26458740234375,
+					"y": -418.8812255859375,
+					"z": 0.9692230224609375
+				}
+			},
+			"uniqueid": 31,
+			"waypointdelayduration": 2,
+			"waypointnumber": 0,
+			"waypointstance": "walk",
+			"width": 1,
+			"zoffset": 0
+		}
+	],
+	"scannedbayname": "Renton Bay 04",
+	"scoringtype": "NewEnumerator0",
+	"simplebgselection": 0,
+	"skyrotation": 0,
+	"skytype": 7,
+	"stageauthor": "Eric Beerbaum",
+	"stagebrief": "Welcome to stage Smoothbrain Criminal, My name is <name> and I am the CRO/RO for this stage.\r\n\r\nSmoothbrain Criminal is a 20 round, 100 point, COMSTOCK Medium course. There are 8 USPSA targets and 4 steel targets. The best 2 hits per cardboard target will score. \r\n\r\nThe start position is standing with feet on both Xs, facing down range with wrists below belt. Handgun is loaded and holstered. PCC start position is stock on belt, muzzle pointing downrange\r\n\r\nProcedure is engage all targets as they become visible within the shooting area.",
+	"stagekey": "",
+	"stagelastupdate": "2022.03.22-12.21.40",
+	"stagename": "Smoothbrain Criminal",
+	"stageshape":
+	{
+		"arrayvector2d": [
+			{
+				"x": 0,
+				"y": 0
+			},
+			{
+				"x": 50,
+				"y": 0
+			},
+			{
+				"x": 100,
+				"y": 0
+			},
+			{
+				"x": 150,
+				"y": 0
+			},
+			{
+				"x": 200,
+				"y": 0
+			},
+			{
+				"x": 250,
+				"y": 0
+			},
+			{
+				"x": 300,
+				"y": 0
+			},
+			{
+				"x": 300,
+				"y": 50
+			},
+			{
+				"x": 300,
+				"y": 100
+			},
+			{
+				"x": 300,
+				"y": 150
+			},
+			{
+				"x": 300,
+				"y": 200
+			},
+			{
+				"x": 300,
+				"y": 250
+			},
+			{
+				"x": 300,
+				"y": 300
+			},
+			{
+				"x": 250,
+				"y": 300
+			},
+			{
+				"x": 200,
+				"y": 300
+			},
+			{
+				"x": 150,
+				"y": 300
+			},
+			{
+				"x": 100,
+				"y": 300
+			},
+			{
+				"x": 50,
+				"y": 300
+			},
+			{
+				"x": 0,
+				"y": 300
+			},
+			{
+				"x": 0,
+				"y": 250
+			},
+			{
+				"x": 0,
+				"y": 200
+			},
+			{
+				"x": 0,
+				"y": 150
+			},
+			{
+				"x": 0,
+				"y": 100
+			},
+			{
+				"x": 0,
+				"y": 50
+			},
+			{
+				"x": 0,
+				"y": 0
+			}
+		],
+		"groundtexture": "Grass",
+		"height": 30,
+		"presetname": "Square",
+		"showhidefrontwalls": true,
+		"walltexture": "NewEnumerator9",
+		"width": 30
+	},
+	"startposition": "The start position is standing with feet on both Xs, facing down range with wrists below belt. Handgun is loaded and holstered. PCC start position is stock on belt, muzzle pointing downrange",
+	"startstop": "Audible - Last Shot",
+	"templateselection": 0,
+	"upvotes": 0,
+	"upvoteslist": []
+}

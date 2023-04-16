@@ -1,0 +1,1158 @@
+{
+	"baytype": 0,
+	"buildinstructions": "EXAMPLE: Targets must be at least four meters apart and as close to the berm as possible.",
+	"coursetype": "NewEnumerator2",
+	"customcamerafov": 0,
+	"customcameratransform":
+	{
+		"rotation":
+		{
+			"w": 1,
+			"x": 0,
+			"y": 0,
+			"z": 0
+		},
+		"scale3d":
+		{
+			"x": 1,
+			"y": 1,
+			"z": 1
+		},
+		"translation":
+		{
+			"x": 0,
+			"y": 0,
+			"z": 0
+		}
+	},
+	"downloads": 0,
+	"downvotes": 0,
+	"numnoshoots": 0,
+	"numpaper": 10,
+	"numperpaper": 2,
+	"numpoints": 115,
+	"numrounds": 23,
+	"numsteel": 3,
+	"papertype": "NewEnumerator0",
+	"procedure": "EXAMPLE: Engage all targets as they become visible within the shooting area.",
+	"proplist": [
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"groupid": [],
+			"propname": "wall-port-med-white",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.76604485511779785,
+					"x": 0,
+					"y": -0,
+					"z": 0.64278709888458252
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 418.57614135742188,
+					"y": -298.62075805664062,
+					"z": 0.10009765625
+				}
+			},
+			"uniqueid": 35,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"groupid": [],
+			"propname": "wall-med-white",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.96592593193054199,
+					"x": -0,
+					"y": 0,
+					"z": -0.25881853699684143
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 431.83334350585938,
+					"y": -1063.427734375,
+					"z": 0.10009765625
+				}
+			},
+			"uniqueid": 19,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"groupid": [],
+			"propname": "wall-med-white",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.88701081275939941,
+					"x": -0,
+					"y": 0,
+					"z": -0.46174860000610352
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": -220.223388671875,
+					"y": 107.7861328125,
+					"z": 0.10009765625
+				}
+			},
+			"uniqueid": 11,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"groupid": [],
+			"propname": "wall-med-white",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.9537169337272644,
+					"x": 0,
+					"y": -0,
+					"z": 0.30070585012435913
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 83.615531921386719,
+					"y": -1063.91015625,
+					"z": 0.10009765625
+				}
+			},
+			"uniqueid": 17,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"groupid": [],
+			"propname": "uspsa-twothirds",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 1,
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 266.21078491210938,
+					"y": -1238.6239013671875,
+					"z": 0.10009765625
+				}
+			},
+			"uniqueid": 21,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"groupid": [],
+			"propname": "uspsa-tux",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.9063076376914978,
+					"x": 0,
+					"y": -0,
+					"z": 0.42261853814125061
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 583.5816650390625,
+					"y": -1108.36474609375,
+					"z": 0.1000823974609375
+				}
+			},
+			"uniqueid": 38,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"groupid": [ 8 ],
+			"propname": "uspsa-hc-bottom",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.86602568626403809,
+					"x": -0,
+					"y": 0,
+					"z": -0.49999955296516418
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": -698.9193115234375,
+					"y": 58.193977355957031,
+					"z": 111.72145843505859
+				}
+			},
+			"uniqueid": 48,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"groupid": [],
+			"propname": "uspsa-half",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.90630799531936646,
+					"x": -0,
+					"y": 0,
+					"z": -0.42261776328086853
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": -80.028594970703125,
+					"y": -583.569580078125,
+					"z": 0.1001129150390625
+				}
+			},
+			"uniqueid": 42,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"groupid": [],
+			"propname": "shooting-box",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 1,
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": -277.76248168945312,
+					"y": 283.2451171875,
+					"z": 0.10009765625
+				}
+			},
+			"uniqueid": 4,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"groupid": [],
+			"propname": "revolver",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 1.7285346984863281e-06,
+					"x": -0,
+					"y": 0,
+					"z": -1.0000001192092896
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 249.96127319335938,
+					"y": -981.4764404296875,
+					"z": 101.48525238037109
+				}
+			},
+			"uniqueid": 31,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"groupid": [],
+			"propname": "one-X-vertical",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 1,
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 200.35098266601562,
+					"y": -978.38671875,
+					"z": 166.39239501953125
+				}
+			},
+			"uniqueid": 32,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"groupid": [],
+			"propname": "one-X-vertical",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 1,
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 302.2120361328125,
+					"y": -985.011474609375,
+					"z": 97.220840454101562
+				}
+			},
+			"uniqueid": 34,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 0,
+				"g": 1,
+				"r": 1
+			},
+			"groupid": [],
+			"propname": "faultline-long",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 1,
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 312.834716796875,
+					"y": -573.14935302734375,
+					"z": 0.10009765625
+				}
+			},
+			"uniqueid": 39,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"groupid": [],
+			"propname": "barrel-blue",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 1,
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 247.49502563476562,
+					"y": -989.58367919921875,
+					"z": 0.10009765625
+				}
+			},
+			"uniqueid": 16,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"groupid": [],
+			"propname": "barrel-blue-stack",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 1,
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 7.67938232421875,
+					"y": -562.0985107421875,
+					"z": 0.1000823974609375
+				}
+			},
+			"uniqueid": 30,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 0,
+				"g": 1,
+				"r": 1
+			},
+			"groupid": [],
+			"propname": "faultline-5m",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.79335379600524902,
+					"x": -0,
+					"y": 0,
+					"z": -0.6087607741355896
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 136.39430236816406,
+					"y": -732.33795166015625,
+					"z": 0.1000823974609375
+				}
+			},
+			"uniqueid": 24,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 0,
+				"g": 1,
+				"r": 1
+			},
+			"groupid": [],
+			"propname": "faultline-3m",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.7071070671081543,
+					"x": 0,
+					"y": -0,
+					"z": 0.70710647106170654
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 308.69284057617188,
+					"y": -300.5260009765625,
+					"z": 0.10009765625
+				}
+			},
+			"uniqueid": 54,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 0,
+				"g": 1,
+				"r": 1
+			},
+			"groupid": [],
+			"propname": "faultline-3m",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 1,
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 175.06881713867188,
+					"y": -150.00213623046875,
+					"z": 0.10009765625
+				}
+			},
+			"uniqueid": 55,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 11,
+				"b": 0,
+				"g": 1,
+				"r": 1
+			},
+			"groupid": [],
+			"propname": "faultline-10ft",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.7372780442237854,
+					"x": -0,
+					"y": 0,
+					"z": -0.67558944225311279
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 48.842132568359375,
+					"y": -322.56173706054688,
+					"z": 0.1001129150390625
+				}
+			},
+			"uniqueid": 49,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"groupid": [],
+			"propname": "uspsa-popper",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.90630775690078735,
+					"x": -0,
+					"y": 0,
+					"z": -0.42261826992034912
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": -817.58160400390625,
+					"y": -985.4168701171875,
+					"z": 0.1000823974609375
+				}
+			},
+			"uniqueid": 1,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"groupid": [],
+			"propname": "uspsa-popper",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.88701105117797852,
+					"x": -0,
+					"y": 0,
+					"z": -0.46174812316894531
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": -846.11328125,
+					"y": -941.17333984375,
+					"z": 0.1000823974609375
+				}
+			},
+			"uniqueid": 2,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"groupid": [],
+			"propname": "uspsa-popper",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 1,
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": -952.32940673828125,
+					"y": -846.28155517578125,
+					"z": 0.10009765625
+				}
+			},
+			"uniqueid": 3,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"groupid": [],
+			"propname": "uspsa-full-target",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.86602556705474854,
+					"x": -0,
+					"y": 0,
+					"z": -0.4999997615814209
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": -699.61602783203125,
+					"y": 57.809127807617188,
+					"z": 0.10009002685546875
+				}
+			},
+			"uniqueid": 7,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"groupid": [],
+			"propname": "uspsa-full-target",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.96592581272125244,
+					"x": 0,
+					"y": -0,
+					"z": 0.25881919264793396
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 507.38519287109375,
+					"y": -384.55377197265625,
+					"z": 0.10009765625
+				}
+			},
+			"uniqueid": 41,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"groupid": [],
+			"propname": "uspsa-full-target",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.86602544784545898,
+					"x": 0,
+					"y": -0,
+					"z": 0.49999994039535522
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 692.87890625,
+					"y": -73.00341796875,
+					"z": 0.10009002685546875
+				}
+			},
+			"uniqueid": 13,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"groupid": [],
+			"propname": "uspsa-full-target",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.84339171648025513,
+					"x": -0,
+					"y": 0,
+					"z": -0.53729915618896484
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": -665.9735107421875,
+					"y": 3.916961669921875,
+					"z": 0.10009002685546875
+				}
+			},
+			"uniqueid": 50,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"groupid": [],
+			"propname": "uspsa-full-target",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.95371687412261963,
+					"x": 0,
+					"y": -0,
+					"z": 0.30070605874061584
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 459.96890258789062,
+					"y": -411.47848510742188,
+					"z": 0.10009765625
+				}
+			},
+			"uniqueid": 36,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"groupid": [],
+			"propname": "uspsa-full-target",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.86602544784545898,
+					"x": 0,
+					"y": -0,
+					"z": 0.49999994039535522
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": 539.5770263671875,
+					"y": -1166.8653564453125,
+					"z": 0.10009765625
+				}
+			},
+			"uniqueid": 22,
+			"zoffset": 0
+		},
+		{
+			"activateids": [],
+			"customadimage": "",
+			"customadimagefilename": "",
+			"customcolor":
+			{
+				"a": 1,
+				"b": 1,
+				"g": 1,
+				"r": 1
+			},
+			"groupid": [],
+			"propname": "uspsa-full-target",
+			"proptransform":
+			{
+				"rotation":
+				{
+					"w": 0.90630775690078735,
+					"x": -0,
+					"y": 0,
+					"z": -0.42261826992034912
+				},
+				"scale3d":
+				{
+					"x": 1,
+					"y": 1,
+					"z": 1
+				},
+				"translation":
+				{
+					"x": -10.7083740234375,
+					"y": -1168.77734375,
+					"z": 0.1000823974609375
+				}
+			},
+			"uniqueid": 20,
+			"zoffset": 0
+		}
+	],
+	"scoringtype": "NewEnumerator0",
+	"skyrotation": 0,
+	"skytype": 1,
+	"stageauthor": "<your name>",
+	"stagebrief": "EXAMPLE: Welcome to stage <stage-name>. My name is <designer-name> and I am the CRO for this stage.\r\n\r\n<stage-name> is a <num-rounds> round, <num-points> point <scoring-type> <stage-size> course. There are <num-paper> <metric/classic> targets and <num-steel> steel. The start signal is audible.\r\n\r\nThe start position is standing anywhere in the shooting area, facing down range with wrists below belt. Handgun is loaded and holstered.\r\nPCC start position is standing anywhere in the shooting area, facing down range, stock on belt, muzzle pointed down range, loaded carbine held in both hands with safety on.\r\n\r\nOn the audible start signal, from within the shooting area, engage all targets as they become visible. Best two hits on paper and steel must fall to score.",
+	"stagelastupdate": "2021.10.20-11.02.35",
+	"stagename": "<some cool name>",
+	"stageshape":
+	{
+		"arrayvector2d": [],
+		"groundtexture": "",
+		"presetname": "",
+		"walltexture": "NewEnumerator0"
+	},
+	"startposition": "EXAMPLE: The start position is standing anywhere in the shooting area, facing down range with wrists below belt. Handgun is loaded and holstered. PCC start position is stock on belt, muzzle pointing downrange",
+	"upvotes": 0
+}
